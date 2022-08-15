@@ -7,11 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<h3 align="center"> Software Engineer from Tunisia</h3>
-
-<div align="center">
-I am a React Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tunisia.
-</div>
+<h3 align="center">I am a React Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tunisia.</h3>
 
 ## 🔧 Things I code with
 <p>
