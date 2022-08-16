@@ -10,10 +10,10 @@
 </div>
 <h3 align="center">I am a React Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tunisia.</h3>
 
--   🔭 I’m currently Studying **Computer Science**
--   🌱 I’m currently learning **React Js, JavaScript, TypeScript, vscode, web design, responsive design, web animation, React route ...**
--    👯 I’m looking to collaborate **in projects**
-- 👨‍💻 All of my projects are available here in github and in my website check them out.
+- 🌎 I'm from Tunisia
+- 👨🏻‍💻 Love programming and design
+- 🧠 I like to learn something new
+- 💭 I dream of developing the IT sector in my region
 -  📫 How to reach me **[boughattasjassem@outlook.com](mailto:boughattasjassem@outlook.com)**
 
 ## 🔧 Things I code with
