@@ -30,7 +30,7 @@
 </p>
 
 
-### :fire: My Stats :
+## :fire: My Stats 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=macfim&theme=dark&background=000000)](https://git.io/streak-stats)
 
@@ -40,7 +40,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=macfim&layout=compact&theme=algolia"/></a> </p>
 
-## Contact me 📫:
+## Contact me 📫
 [![Gmail Badge](https://img.shields.io/badge/-boughattasjassem@outlook.com-red?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:haithemmihoubi1234@gmail.com)](mailto:boughattasjassem@outlook.com)
 [![Linkedin Badge](https://img.shields.io/badge/-JassemBoughattas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jassemboughattas/)](https://www.linkedin.com/in/jassemboughattas/)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)]()
