@@ -6,7 +6,7 @@
 
 
 
-currently learning web development,
+Currently learning web development,
 focusing on: React, TypeScript, Node, Express, MongoDb.
 
 <details>
