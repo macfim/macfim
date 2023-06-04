@@ -7,7 +7,7 @@
 
 
 Currently learning web development,
-focusing on: React, TypeScript, Node, Express, MongoDb.
+focusing on: Nextjs13, Node and Typescript.
 
 <details>
 <summary>⚡️ More about my coding life</summary>
