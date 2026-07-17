@@ -21,11 +21,15 @@ I'm **Jassem** — a full-stack developer from Sousse, Tunisia, with 3+ years bu
 
 **DevOps** — Docker, Nginx, GitHub Actions, Turborepo, Vercel
 
-## 📊 Stats
+<details>
+<summary>⚡️ More about my coding life</summary>
+<br />
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=macfim&theme=onedark&hide_border=true)
 
 ![Contribution Chart](https://ghchart.rshah.org/macfim)
+
+</details>
 
 ## 📫 Find me
 
