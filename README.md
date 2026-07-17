@@ -23,9 +23,9 @@ I'm **Jassem** — a full-stack developer from Sousse, Tunisia, with 3+ years bu
 
 ## 📊 Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macfim&layout=compact&hide=css,html)
+![GitHub Streak](https://streak-stats.demolab.com?user=macfim&theme=onedark&hide_border=true)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=macfim&count_private=true&show_icons=true&theme=onedark)
+![Contribution Chart](https://ghchart.rshah.org/macfim)
 
 ## 📫 Find me
 
